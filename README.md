@@ -8,3 +8,5 @@ _____________
 * [Visualizing Data](http://nbviewer.ipython.org/urls/raw.github.com/jgerardsimcock/ds_from_scratch/master/notebooks/Visualizing%20Data.ipynb)
 
 * [Linear Algebra with Python](http://nbviewer.ipython.org/urls/raw.github.com/jgerardsimcock/ds_from_scratch/master/notebooks/Linear%20Algebra.ipynb)
+
+* [Statistics with Python](http://nbviewer.ipython.org/urls/raw.github.com/jgerardsimcock/ds_from_scratch/master/notebooks/Statistics.ipynb)

@@ -12,3 +12,5 @@ _____________
 * [Statistics with Python](http://nbviewer.ipython.org/urls/raw.github.com/jgerardsimcock/ds_from_scratch/master/notebooks/Statistics.ipynb)
 
 * [Probability with Python](http://nbviewer.ipython.org/urls/raw.github.com/jgerardsimcock/ds_from_scratch/master/notebooks/Probability.ipynb)
+
+* [Hypothesis Inference with Python](http://nbviewer.ipython.org/urls/raw.github.com/jgerardsimcock/ds_from_scratch/master/notebooks/HypothesisInference.ipynb)

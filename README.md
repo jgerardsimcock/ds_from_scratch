@@ -14,3 +14,5 @@ _____________
 * [Probability with Python](http://nbviewer.ipython.org/urls/raw.github.com/jgerardsimcock/ds_from_scratch/master/notebooks/Probability.ipynb)
 
 * [Hypothesis Inference with Python](http://nbviewer.ipython.org/urls/raw.github.com/jgerardsimcock/ds_from_scratch/master/notebooks/HypothesisInference.ipynb)
+
+* [Gradient Descent with Python](http://nbviewer.ipython.org/urls/raw.github.com/jgerardsimcock/ds_from_scratch/master/notebooks/GradientDescent.ipynb)
